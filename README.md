@@ -1,2 +1,2 @@
 # Data645_Project-3
-contains cleaned dataset and R code
+contains the cleaned dataset and R code for project 3
